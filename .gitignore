@@ -13,6 +13,10 @@ pubspec.lock
 *.docx
 ~$*
 
+# Local reference files (keep locally, ignore on GitHub)
+dart_fundamentals.dart
+dart_flutter_data_structures_part2.dart
+
 # OS generated files
 .DS_Store
 Thumbs.db
