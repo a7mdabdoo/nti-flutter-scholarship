@@ -9,6 +9,10 @@ build/
 .packages
 pubspec.lock
 
+# Temporary & Word Draft files
+*.docx
+~$*
+
 # OS generated files
 .DS_Store
 Thumbs.db
